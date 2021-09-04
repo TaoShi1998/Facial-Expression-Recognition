@@ -18,7 +18,7 @@ Please visit https://arxiv.org/abs/1409.1556 for more information about FER-2013
 
 
 ## Model Evaulation
-The model was evaluated on the test sets, achieved an accuracy of 65.00%, which was the 7th place in the Kaggle Facial Expression Recognition Challenge.
+The model was evaluated on the test sets, achieved an accuracy of 65.00%, which was the 7th place in the *Kaggle Facial Expression Recognition Challenge*.
 ![result](https://user-images.githubusercontent.com/37060800/132017869-f1595de8-3aea-45d6-9e7b-1f36f1848348.png)
 
 
