@@ -14,7 +14,7 @@ Please visit https://www.kaggle.com/msambare/fer2013 for more information about 
 ## Model Architecture
 To achieve facial expression recognition, I constructed a VGG16 using Keras, added Dropout on Fully Connected Layers to reduce overfitting and Batch Normalization for faster and more stable training. 
 
-Please visit https://arxiv.org/abs/1409.1556 for more information about FER-2013.
+Please visit https://arxiv.org/abs/1409.1556 for more information about VGG16.
 
 
 ## Model Evaulation
